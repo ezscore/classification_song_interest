@@ -12,6 +12,7 @@ https://www.kaggle.com/c/MusicHackathon/data
 
 ### Correlation Plot
 
+![Correlation Plot](images/Questions_heatmap.png)
 
 Q1: I enjoy actively searching for and discovering music that I have never heard before
 Q2: I find it easy to find new music
